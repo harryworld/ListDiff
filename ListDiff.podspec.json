@@ -17,7 +17,8 @@
   },
   "platforms": {
     "ios": "8.0",
-    "osx": "10.10"
+    "osx": "10.10",
+    "watchos": "2.0"
   },
   "source_files": "Sources/**/*"
 }
